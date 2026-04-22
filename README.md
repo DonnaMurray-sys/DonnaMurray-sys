@@ -1,16 +1,19 @@
-## Hi there 👋
+# G'day mate 🦘
 
-<!--
-**DonnaMurray-sys/DonnaMurray-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **DonnaMurray-sys**, a database geek.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Build small, ship often
+- 🎨 Code is poetry
+- 🚀 Performance matters
+- 🌟 Open source enthusiast
+- 🌱 Always learning new things
+
+## Tech
+
+`Python` `Sinatra` `Neovim` `TypeScript`
+
+---
+
+_Occasional blogger._
